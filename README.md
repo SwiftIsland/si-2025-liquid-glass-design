@@ -1,6 +1,6 @@
-# SwiftIsland 2025 - Liquid Glass Design Sample (WWDC25)
+# Liquid Glass Design Sample (WWDC25) - Swift Island 2025
 
-A sample iOS app demonstrating Apple's Liquid Glass design system features from WWDC 2025.
+A sample iOS app demonstrating Apple's Liquid Glass design system features from WWDC 2025 given by **Burcu Kutluay** at **Swift Island 2025**
 
 This sample app showcases key Liquid Glass design patterns using only Apple's official iOS 26 APIs. Perfect for learning the new design system or preparing workshop materials.
 
